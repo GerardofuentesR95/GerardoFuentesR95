@@ -1,4 +1,4 @@
-![Banner personal](Banner Para LinkedIn Desarrollador De Software Moderno Negro.png)
+![Banner personal](banner-linkedin-desarrollador-negro.png)
 # 👋 Hi, I'm Gerardo 😄
 
 🎓 International Business graduate | 📦 Logistics & Procurement Experience | 📊 Learning Data Science
