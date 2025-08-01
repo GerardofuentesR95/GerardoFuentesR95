@@ -7,7 +7,7 @@ I have experience in procurement and logistics within industrial environments an
 
 ## 🛠️ Technologies & Tools
 
-- **Python**: pandas, matplotlib, scikit-learn
+- **Python**: pandas, matplotlib, scikit-learn, seaborn
 - **SQL**
 - **Excel (advanced)** / Google Sheets
 - **Jupyter Notebook**, Git, GitHub
