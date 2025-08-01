@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Gerardo
 
-<!--
-**GerardofuentesR95/GerardoFuentesR95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 International Business graduate | 📦 Logistics & Procurement Experience | 📊 Learning Data Science
 
-Here are some ideas to get you started:
+I'm passionate about optimizing supply chain processes through data-driven insights and technology.  
+I have experience in procurement and logistics within industrial environments and I'm currently expanding my skill set in data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- **Python**: pandas, matplotlib, scikit-learn
+- **SQL**
+- **Excel (advanced)** / Google Sheets
+- **Jupyter Notebook**, Git, GitHub
+
+## 📌 Interests
+
+- Supply chain optimization  
+- Process automation  
+- Data visualization  
+- Global trade & logistics  
+
+## 🔗 Let's connect
+
+- [LinkedIn](www.linkedin.com/in/gerardo-fuentes-romano)
+- 📫 Email: gerardofuentes93@yahoo.com.mx
