@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gerardo
+# 👋 Hi, I'm Gerardo 😄
 
 🎓 International Business graduate | 📦 Logistics & Procurement Experience | 📊 Learning Data Science
 
